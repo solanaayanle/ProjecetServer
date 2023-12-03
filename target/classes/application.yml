@@ -1,0 +1,11 @@
+# See http://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
+spring:
+  thymeleaf.cache: false
+  main.show-banner: false
+  datasource:
+    url: jdbc:mysql://localhost:3306/calorieTracking
+    username: root
+    password: password
+  jpa:
+    hibernate:
+      ddl-auto: update
