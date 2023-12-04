@@ -1,7 +1,7 @@
 package com.example.CalorieApp.userData;
 
-import javax.persistence.Entity;
-import javax.persistence.Id;
+import jakarta.persistence.Id;
+import jakarta.persistence.Entity;
 
 @Entity
 public class User {

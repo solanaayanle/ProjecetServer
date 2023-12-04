@@ -1,0 +1,9 @@
+com\example\CalorieApp\userData\UserRepository.class
+com\example\CalorieApp\calorieRecording\CaloriesOfTheDay.class
+com\example\CalorieApp\calorieRecording\MealItems.class
+com\example\CalorieApp\calorieRecording\CalorieTrackingNode.class
+com\example\CalorieApp\userData\UserController.class
+com\example\CalorieApp\userData\User.class
+com\example\App.class
+com\example\CalorieApp\userData\UserDataService.class
+com\example\CalorieApp\userData\ImplUserDataService.class
